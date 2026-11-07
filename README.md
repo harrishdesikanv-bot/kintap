@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <h1>KinTap Privacy Policy</h1>
 <p><strong>Effective date:</strong> 7 November 2026</p>
