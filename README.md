@@ -1,31 +1,5 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>KinTap Privacy Policy</title>
-<meta name="description" content="Privacy Policy for KinTap, the easy phone app for seniors. KinTap collects no personal data.">
-<style>
-:root{--bg:#F6F8F7;--card:#fff;--text:#14201A;--muted:#4A5852;--accent:#1D6A4C;--line:#D9E2DD}
-@media (prefers-color-scheme:dark){:root{--bg:#0F1214;--card:#1A1F23;--text:#F1F4F3;--muted:#B8C2BE;--accent:#7FD3A6;--line:#2E363B}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font:18px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:860px;margin:0 auto;padding:24px 16px 64px}
-header{display:flex;align-items:center;gap:14px;margin-bottom:8px}
-header .logo{width:52px;height:52px;border-radius:14px;background:#fff;display:grid;place-items:center;box-shadow:0 1px 4px rgba(0,0,0,.15)}
-h1{font-size:32px;line-height:1.2;margin:0}
-h2{font-size:24px;margin:40px 0 8px;color:var(--accent)}
-p,li{color:var(--text)} a{color:var(--accent)}
-code{background:var(--line);padding:1px 6px;border-radius:6px;font-size:.9em}
-.t{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;margin:12px 0}
-table{border-collapse:collapse;width:100%;font-size:16px}
-th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
-th{background:var(--line)} tr:last-child td{border-bottom:0}
-footer{margin-top:48px;color:var(--muted);font-size:15px}
-</style>
-</head>
-<body><main>
-<header><div class="logo"><svg width="32" height="32" viewBox="0 0 24 24" aria-hidden="true"><path fill="#2E7D5E" d="M20.01 15.38c-1.23 0-2.42-.2-3.53-.56-.35-.12-.74-.03-1.01.24l-1.57 1.97c-2.83-1.35-5.48-3.9-6.89-6.83l1.95-1.66c.27-.28.35-.67.24-1.02-.37-1.11-.56-2.3-.56-3.53 0-.54-.45-.99-.99-.99H4.19C3.65 3 3 3.24 3 3.99 3 13.28 10.73 21 20.01 21c.71 0 .99-.63.99-1.18v-3.45c0-.54-.45-.99-.99-.99z"/></svg></div><span style="font-size:22px;font-weight:700">KinTap</span></header>
 <h1>KinTap Privacy Policy</h1>
 <p><strong>Effective date:</strong> 7 November 2026</p>
 <p>KinTap keeps everything on your phone: we do not collect, store, sell or share any of your personal information. This policy explains what the app uses on your device, why, and the choices you have. It applies to the KinTap Android app (package <code>com.kintap.phone</code>), version 1.0.0 and later.</p>
