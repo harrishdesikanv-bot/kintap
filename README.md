@@ -40,4 +40,3 @@
 <p>If a future version of KinTap changes how information is handled, we will update this policy before that version is released, change the "Effective date" above, and describe the change in the app's release notes. If a change ever means data would leave your phone, we will ask for your consent in the app first.</p>
 <p><strong>Contact:</strong> [Hamster Dragon], [harrishdesikan.v@gmail.com]</p>
 <footer>KinTap · Your family, one tap away</footer>
-</main></body></html>
